@@ -1,0 +1,1 @@
+throw Error("Sprockets::FileNotFound: couldn't find file 'jquery'\n  (in /Users/schnief/Development/jtm/lab/jugend-theater-martinszell.github.com/source/javascripts/all.js.coffee:1)")
